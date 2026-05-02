@@ -51,4 +51,4 @@ Este projeto está sob a **licença MIT**. Veja o arquivo [`LICENSE`](LICENSE) p
 
 ---
 
-*Sugestão: adicione uma captura de tela da calculadora no README colocando uma imagem (por exemplo `screenshot.png`) na raiz do repositório e referenciando-a com `![Calculadora](screenshot.png)`.*
+{F757F7A9-67DF-4EBF-B872-EE51EF056FCA}.png
