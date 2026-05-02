@@ -51,4 +51,4 @@ Este projeto está sob a **licença MIT**. Veja o arquivo [`LICENSE`](LICENSE) p
 
 ---
 
-[Calculadora](assets/CALCULADORA.png)
+![Calculadora](assets/CALCULADORA.png)
