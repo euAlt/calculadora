@@ -1,5 +1,8 @@
 # Calculadora web
 
+![Calculadora](image.png)
+
+
 Calculadora simples no navegador: números de **0** a **9**, operações **adição**, **subtração**, **multiplicação** e **divisão**, com interface em tema escuro e um único arquivo HTML (marcação, estilo e script juntos).
 
 **Repositório:** [github.com/euAlt/calculadora](https://github.com/euAlt/calculadora)
@@ -51,4 +54,4 @@ Este projeto está sob a **licença MIT**. Veja o arquivo [`LICENSE`](LICENSE) p
 
 ---
 
-![Calculadora](image.png)
+
