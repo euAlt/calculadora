@@ -1,6 +1,6 @@
 # Calculadora web
 
-<img src="image.png" alt="Calculadora" style="border-radius: 15px;" width="300">
+![Calculadora](image.png)
 [Clique aqui para acessar minha Calculadora](https://eualt.github.io/)
 
 Calculadora simples no navegador: números de **0** a **9**, operações **adição**, **subtração**, **multiplicação** e **divisão**, com interface em tema escuro e um único arquivo HTML (marcação, estilo e script juntos).
